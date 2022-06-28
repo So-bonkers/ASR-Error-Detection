@@ -1,0 +1,11 @@
+ID      	File Details            	Expected Output          	ASR Output         	Cause           	Prosody/Intonation
+1	PinkyBahroosHindiKavita 	/ek ladki thi/          	/ki thi/                            		    Rising on /d/
+2	PinkyBahroosHindiKavita 	/hamesha khush/         	/hamesha ko/                       		        Diving on /kh/
+3	PinkyBahroosHindiKavita 	/aur apni hee dhun me/  	/__ ki dhun me/                     		    Rising; Peak on /hee/
+4	PinkyBahroosHindiKavita 				
+5	PinkyBahroosHindiKavita 				
+6	PinkyBahroosHindiKavita 				
+7	PinkyBahroosHindiKavita 				
+8	PinkyBahroosHindiKavita 				
+9	PinkyBahroosHindiKavita 				
+10	PinkyBahroosHindiKavita 				
